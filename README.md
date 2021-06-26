@@ -1,0 +1,10 @@
+# Outlook_Linkedin
+
+假装自己个是程序员，哈哈哈
+
+福步论坛有个验证邮箱的方法：
+https://bbs.fobshanghai.com/thread-8121719-1-1.html
+
+我试着用selenium爬取。
+
+注意这个代码有bug，大概超过300邮件后，Outlook会显示领英未连接
